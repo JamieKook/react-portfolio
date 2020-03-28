@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "image": "https://www.upr.org/sites/upr/files/styles/x_large/public/201803/0_2.png",
+      "degree": "Bachelor of Science, Biology",
+      "name": "University of Utah",
+      "p1": "ACCESS Program for Women in Math and Science",
+      "p2": "Biology Undergraduate Research Program",
+      "p3": "Honors College Community Leadership Scholar",
+      "year": "2010"
+    },
+    {
+        "id": 2,
+        "image": "https://www.vanderbilt.edu/cso/images/wyatt.jpg",
+        "degree": "Master of Education, Secondary Science",
+        "name": "Vanderbilt University",
+        "p1": "Peabody Honors Scholarship Cohort",
+        "p2": "Peabody Graduate Student Association- Teaching and Learning Co-Chair",
+        "p3": "",
+        "year": "2013"
+    },
+    {
+        "id": 3,
+        "image": "https://live.staticflickr.com/4150/4840883443_a8f5671f87_b.jpg",
+        "degree": "Web Development Coding Bootcamp",
+        "name": "Vanderbilt University",
+        "p1": "HTML5, CSS3, JavaScript, jQuery, Bootstrap, MySQL, MongoDB, React.js, Node.js, Express.js, MERN Stack, Heroku, Git, and QA",
+        "p2": "",
+        "p3": "",
+        "year": "2020"
+    }
+]

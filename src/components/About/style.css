@@ -1,0 +1,34 @@
+.about {
+    position: relative; 
+    background-image: url(./mountain.jpg);
+    background-position: right; 
+    background-size: cover;
+    min-height: 450px; 
+    margin-top: 20px; 
+   margin-bottom: 20px; 
+   overflow: scroll; 
+}
+
+.about button a {
+    color: #032f4d;
+}
+
+.overlay {
+    background-color: rgba(3,47,77,0.4); 
+    width: 100%; 
+    height: 100%; 
+    overflow: auto; 
+    color: white; 
+    min-height: 450px;
+    font-size: 1.25rem; 
+    line-height: 2rem; 
+}
+
+.overlay a{
+    color: lightskyblue; 
+}
+
+.overlay a:hover{
+    color: darkgoldenrod;
+
+}

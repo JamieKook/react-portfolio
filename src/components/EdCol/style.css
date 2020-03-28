@@ -1,0 +1,29 @@
+.ed {
+    padding: 30px; 
+    border: thick white solid;  
+    background-color: #CBE6EA   
+}
+
+.descrip-contain{
+    display: flex; 
+    justify-content: center;
+}
+
+.descrip{
+    position: absolute;
+    bottom: 10%; 
+}
+
+.year-contain{
+    display: flex;
+    justify-content: center;
+}
+
+.year{
+    position: absolute;
+    bottom: 5%; 
+}
+
+.logo{
+    height: 100px; 
+}

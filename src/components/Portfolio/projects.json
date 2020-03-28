@@ -1,0 +1,35 @@
+[
+    {"title": "Employee Tracker", 
+        "descript": "This node commandline application allows users to view and update employees, roles, and departments.",
+        "role": "Solo project following a set of guidelines",
+        "tech": "This project utilizes javascript, node, mySQL, and the following npm packages: inquirer, mysql-promisifiy, console.table, and jest",
+        "img": "./images/Employeetracker.png",
+        "linkapp":"" ,
+        "linkhub":"https://github.com/JamieKook/EmployeeTracker",
+        "shortd": "Manage your Employees.",
+        "icon": "fas fa-tasks",
+        "id": 0
+    },
+    {"title": "Burger Logger", 
+        "descript": "This web application allows users to log burgers as avaialbe or eaten and store data in a mySQL database.",
+        "role": "Solo project following a set of guidelines",
+        "tech": "This project utilizes javascript,html, css, bootstraps, node, mySQL, a MVC file structure, and the following npm packages: express, express-handlebars, and mySQL.",
+        "img": "./images/burgerLogger.png",
+        "linkapp":"https://gentle-cliffs-24688.herokuapp.com/" ,
+        "linkhub":"https://github.com/JamieKook/BurgerLogger",
+        "shortd": "Track delicious burgers.",
+        "icon": "fas fa-hamburger", 
+        "id": 1
+    },
+    {"title": "The Writer's Library", 
+        "descript": "This web application allows users to share their writing with others and to give and receive feedback.",
+        "role": "Collaborative Project- project lead for coding all aspects except for styling",
+        "tech": "This project utilizes AWS's s3 storage, javascript, html, css, bootstraps, pure, node, mySQL, a MVC file structure, and the following npm packages: express, express-handlebars, express-fileUpload, Passport, and mySQL.",
+        "img": "./images/writerLib.png",
+        "linkapp":"https://morning-lake-48557.herokuapp.com/" ,
+        "linkhub":"https://github.com/JamieKook/WriterLib",
+        "shortd": "Use s3 to store and share your Stories",
+        "icon": "fas fa-book-open",
+        "id": 2
+    }
+]

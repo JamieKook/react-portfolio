@@ -1,0 +1,35 @@
+[
+    {"title": "Got Jobs", 
+        "descript": "This web application searches user-selected cities for job postings and for data about the quality of life in that city. Users can save and view favorite jobs.",
+        "role": "Collaborative project- responsible for all functions regarding the job search and map found in the script.js file.",
+        "tech": "This project utilizes javascript, css, bootstrap, Animate.css, jQuery, local storage, Mapquest’s static map api, The Muse’s job api, Teleport’s api, and Plot.ly.",
+        "img": "./images/GotJobs.png",
+        "linkapp":"https://jamiekook.github.io/GotJobs/" ,
+        "linkhub":"https://github.com/JamieKook/GotJobs",
+        "shortd": "Find your perfect job.",
+        "icon": "fas fa-search",
+        "id": 3
+    },
+    {"title": "Weather Dashboard", 
+        "descript": "This web application displays both current weather and the 5 day forecast of user-selected cities. It features automatic user-location finding and a saved search history.",
+        "role": "Solo project following a set of guidelines.",
+        "tech": "This project utilizes javascript, css, bootstrap, jQuery, local storage, Moment.js, Mapquest’s geocoding and static map apis, OpenWeather’s weather api and the navigator’s geolocation api.",
+        "img": "./images/dashboard.png",
+        "linkapp":"https://jamiekook.github.io/WeatherDashboard/" ,
+        "linkhub":"https://github.com/JamieKook/WeatherDashboard",
+        "shortd": "Find a location's current weather and 5-day forecast.",
+        "icon": "fas fa-cloud-sun",
+        "id": 4
+    },
+    {"title": "Numbers", 
+        "descript": "A game to teach children how to count using an abacus and displaying numbers in multiple representations.",
+        "role": "Passion project created independently.",
+        "tech": "This project utilizes javascript, css, bootstrap, Animate.css, jQuery, local storage, and Giphy's API.",
+        "img": "./images/numberswebpage.png",
+        "linkapp":"https://jamiekook.github.io./Numbers" ,
+        "linkhub":"https://github.com/JamieKook/Numbers",
+        "shortd": "Learn how to use an abacus.",
+        "icon": "fas fa-plus",
+        "id": 5
+    }
+]

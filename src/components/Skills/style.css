@@ -1,0 +1,59 @@
+.ss{
+    background-color: #CBE6EA;
+    border: white thick solid; 
+    min-height: 200px; 
+    padding: 25px; 
+}
+
+.ss .btn{
+    background-color: rgba(255,255,255,0.6); 
+}
+
+.ss .btn:hover{
+    background-color: rgba(255,255,255,1); 
+    font-size: 1.5rem; 
+    border: thin black solid; 
+}
+
+.ss .btn:focus{
+    box-shadow: 0 0 0 0.2rem rgba(203,230,234,0.5)
+}
+
+.intro-ss{
+    background-color: #CBE6EA;
+    border: white thick solid; 
+    padding: 50px;  
+}
+
+.communication{
+    background-image: url(./collaboration.jpg);
+    background-size: cover;
+}
+
+.present {
+    background-image: url(./present.jpg);
+    background-size: cover;
+}
+.science {
+    background-image: url(./math.jpg);
+    background-size: cover;
+}
+
+.research {
+    background-image: url(./data.jpg);
+    background-size: cover;
+}
+
+.organize {
+    background-image: url(./organization.jpg);
+    background-size: cover;
+}
+
+.software{
+    background-image: url(./software.jpg);
+    background-size: cover;
+}
+
+.popover {
+    font-size: 1.2rem; 
+}
